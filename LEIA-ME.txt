@@ -1,0 +1,23 @@
+
+Projeto Final de Computação Gráfica
+
+\\-------------------------------//
+|                                 |
+|       Mini Sistema Solar        |
+|                                 |
+//-------------------------------\\
+
+> Desenvolvedor:
+> 
+> Renan Francisco 1427652
+
+//-------------------------------//
+
+> Instruções:
+>
+> W, A, S, D    - move universo
+> Espaço        - pausa animação
+> Scroll Mouse  - zoom
+> Click Direito - menu
+
+//-------------------------------//
